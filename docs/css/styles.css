@@ -5,7 +5,13 @@
 body {
   text-align: center;
   font-family: system-ui, sans-serif;
-  background: #c4dafa;
+  background-image: url(https://external-preview.redd.it/9Enzn9tzmnNSRturLNyWm3_auqy74mcRYbbTdxoJqdk.jpg?width=1080&crop=smart&auto=webp&s=594666c12e3a88939de9fd2ce2ba470a5016ccdf);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  -webkit-text-stroke-width: 0.4px;
+  -webkit-text-stroke-color: black;
 }
 
 a {
