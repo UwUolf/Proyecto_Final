@@ -4,7 +4,7 @@ title: Linea de Tiempo
 description: Meta descripción página de inicio
 ---
 </p>
-<img width="25%" src="/img/SS.webp">
+<img width="30%" src="/img/SS.webp">
 </p>
 <center>
   <section class="row container-lg">
