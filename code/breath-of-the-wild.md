@@ -1,6 +1,6 @@
 ---
 layout: games.njk
-title: Linea de Tiempo 
+title: Breath of the Wild 
 description: Meta descripción página de inicio
 ---
 </p>

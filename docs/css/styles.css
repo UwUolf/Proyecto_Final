@@ -10,8 +10,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   color: white;
-  -webkit-text-stroke-width: 0.4px;
-  -webkit-text-stroke-color: black;
+  
   text-shadow: 1px 1px 2px black;
 }
 

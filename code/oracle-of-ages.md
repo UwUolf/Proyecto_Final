@@ -1,6 +1,6 @@
 ---
 layout: games.njk
-title: Linea de Tiempo 
+title: Ocracle of Ages
 description: Meta descripción página de inicio
 ---
 </p>

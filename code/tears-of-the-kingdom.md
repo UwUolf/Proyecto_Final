@@ -1,6 +1,6 @@
 ---
 layout: games.njk
-title: Linea de Tiempo 
+title: Tears of the Kingdom 
 description: Meta descripción página de inicio
 ---
 </p>

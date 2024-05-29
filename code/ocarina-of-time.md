@@ -1,6 +1,6 @@
 ---
 layout: games.njk
-title: Linea de Tiempo 
+title: Ocarina of Time
 description: Meta descripción página de inicio
 ---
 </p>

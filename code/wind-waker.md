@@ -1,6 +1,6 @@
 ---
 layout: games.njk
-title: Linea de Tiempo 
+title: The Wind Waker 
 description: Meta descripción página de inicio
 ---
 </p>
