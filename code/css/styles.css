@@ -56,3 +56,6 @@ li {
     list-style: none;
   }
 }
+.filtro{
+    display: none;
+  }
